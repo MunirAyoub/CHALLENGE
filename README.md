@@ -42,8 +42,8 @@ O sistema Estoque Fácil funciona da seguinte maneira :
 #
 ### Membros do Challenge :
 
-Munir Ayoub - RM 550893
-Macirander - RM 551416
-Matheus Colossal - RM 99572
-Joao Vitor Souza Nunes - RM 550381
-Enzo Oliveira Bernardo - RM 551356
+- Munir Ayoub - RM 550893
+- Macirander - RM 551416
+- Matheus Colossal - RM 99572
+- Joao Vitor Souza Nunes - RM 550381
+- Enzo Oliveira Bernardo - RM 551356
