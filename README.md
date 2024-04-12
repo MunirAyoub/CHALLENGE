@@ -31,7 +31,7 @@ O sistema Estoque Fácil funciona da seguinte maneira:
   - O administrador do estoque recebe as encomendas e as registra no sistema, atualizando o status conforme necessário.
   - Os moradores podem acompanhar o status de suas encomendas através do sistema, desde o recebimento na portaria até a retirada.
 
-##Conclusão:
+## Conclusão:
   
   O sistema Estoque Fácil proporciona uma solução eficaz para o gerenciamento de encomendas em condomínios, simplificando o processo tanto para os responsáveis pelo condomínio quanto para os moradores. Ao cadastrar o condomínio e os usuários, o responsável pelo condomínio possibilita o acesso às funcionalidades do sistema, enquanto o administrador do estoque é encarregado de gerenciar as encomendas recebidas e atualizar seu status.
   
